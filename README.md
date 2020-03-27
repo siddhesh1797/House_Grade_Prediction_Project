@@ -11,7 +11,7 @@ What we have done?
 
 •	Build a model
 
-•	Make and submit predictions
+•	Made and submit predictions
 
 
 Thank you!!!
